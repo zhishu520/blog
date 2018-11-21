@@ -3,6 +3,8 @@
 ### cocos2dx 源码系列
 [cocos2dx 是如何渲染的](https://github.com/zhishu520/blog/issues/1)
 
+### 吹比与讲故事系列
+[坚持小故事一则](https://github.com/zhishu520/blog/issues/3)
 
 
 
