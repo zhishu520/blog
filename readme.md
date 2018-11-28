@@ -5,6 +5,7 @@
 [cocos2dx 引用计数机制](https://github.com/zhishu520/blog/issues/2)  
 [cocos2dx UserDefault 和 LocalStorage 比较](https://github.com/zhishu520/blog/issues/4)  
 [cocos2dx 事件分发机制](https://github.com/zhishu520/blog/issues/5)  
+[cocos2dx 源码 C++技巧篇](https://github.com/zhishu520/blog/issues/6)  
 
 ### 吹比与讲故事系列
 [坚持小故事一则](https://github.com/zhishu520/blog/issues/3)  
