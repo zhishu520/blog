@@ -8,8 +8,8 @@
 [cocos2dx 源码 C++技巧篇](https://github.com/zhishu520/blog/issues/6)  
 
 ### 开发辅助
-[Ease 曲线](https://github.com/zhishu520/blog/issues/7)
-[string 切割UTF-8汉字](https://github.com/zhishu520/blog/issues/9)
+[Ease 曲线](https://github.com/zhishu520/blog/issues/7)  
+[string 切割UTF-8汉字](https://github.com/zhishu520/blog/issues/9)  
 
 
 ### 吹比与讲故事系列
